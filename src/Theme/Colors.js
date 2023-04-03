@@ -1,0 +1,35 @@
+export const COLORS = {
+  GREEDGRADIENT: '#009047',
+  GRADIENT_1: '#03B058',
+
+  WHITE: '#ffffff',
+  WHITE_BG: '#E5E5E5',
+  WHITE_1: '#E9EFF7',
+  WHITE_3: '#EBF6FE',
+
+  GRAY: '#E7E8E9',
+  GRAY_1: '#8C8C8C',
+
+  BLACK: '#393939',
+  BLACK_1: '#D9D9D9',
+  BLACK_2: '#D8DADD',
+  BLACK_3: '#262626',
+
+  GREED: '#00A551',
+  GREEN_1: '#2C5437',
+  GREEN_2: '#008C51',
+  GREEN_3: '#E6FBD3',
+  GREEN_4: 'rgba(230, 251, 211, 0.7)',
+  BLUE: '#007652',
+  BLUE_1: '#186AF7',
+
+  RED: '#EC1C24',
+  RED_1: '#E22F3B',
+
+  NEUTRAL: '#101725',
+  NEUTRAL_1: '#696E78',
+  NEUTRAL_2: '#F3F3F4',
+  NEUTRAL_3: '#BFBFBF',
+
+  PRIMARY: '#004F46',
+};

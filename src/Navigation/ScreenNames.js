@@ -1,0 +1,6 @@
+export const SCREEN_NAMES = {
+  HOME_SCREEN: 'HOME_SCREEN',
+  DETAIL_SCREEN: 'Detail',
+  SEARCH_SCREEN: 'SEARCH_SCREEN',
+  CREAT_SCREEN: 'Create New',
+};
